@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * Reseting File Permissions for Magento
+ * Reseting file and folder permissions for magento
  *
  * @version    1.0.0
  * @author     Nikola Papratović <nikola.papratovic@gmail.com> 
